@@ -1,0 +1,1202 @@
+[
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(자기소개 해볼까요?)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 여성, 마케팅 전문가, 낮은 자신감, 내향적 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(최근에 힘들었던 일에 대해 말씀해주시겠어요?)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 여성, 마케팅 전문가, 낮은 자신감, 내향적 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(자신감을 키우기 위해 어떤 변화가 필요할까요?)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 여성, 마케팅 전문가, 낮은 자신감, 내향적 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주시겠어요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반, 직장인, 방향감각 상실과 의욕 저하를 겪고 있는 성격이 내향적인 개인."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 어떤 어려움이 있었나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반, 직장인, 방향감각 상실과 의욕 저하를 겪고 있는 성격이 내향적인 개인."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "앞으로 어떤 방향으로 나아가고 싶으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반, 직장인, 방향감각 상실과 의욕 저하를 겪고 있는 성격이 내향적인 개인."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30세 여성, 마케팅 전문가, 친구에 대한 집착으로 인한 불안과 분노의 감정을 겪고 있는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "관계에서 느끼는 어려움에 대해 말씀해 주세요.",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30세 여성, 마케팅 전문가, 친구에 대한 집착으로 인한 불안과 분노의 감정을 겪고 있는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "친구와의 관계에서 어떤 변화를 원하나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30세 여성, 마케팅 전문가, 친구에 대한 집착으로 인한 불안과 분노의 감정을 겪고 있는 내성적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반, 교사, 가족의 긍정적 변화를 갈망하는 성격이 우호적이고 지원적임."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 언니와의 관계에서 힘든 점은 무엇인가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반, 교사, 가족의 긍정적 변화를 갈망하는 성격이 우호적이고 지원적임."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "언니를 위해 어떤 작은 기쁨을 줄 수 있을지 구체적으로 생각해보신 적이 있나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반, 교사, 가족의 긍정적 변화를 갈망하는 성격이 우호적이고 지원적임."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기 소개를 해주세요.",
+    "criteria": "이름과 직업 등 설정 유지",
+    "persona": "30대 중반의 마케팅 전문가로, 불필요한 걱정으로 인해 심리적 스트레스를 겪고 있는 내향적인 성격의 소유자입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근의 걱정이나 스트레스에 대해 말씀해 주실 수 있나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 마케팅 전문가로, 불필요한 걱정으로 인해 심리적 스트레스를 겪고 있는 내향적인 성격의 소유자입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "걱정을 줄이기 위해 어떤 방법이 가장 효과적일 것 같나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 마케팅 전문가로, 불필요한 걱정으로 인해 심리적 스트레스를 겪고 있는 내향적인 성격의 소유자입니다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30세 남성, 아르바이트 중, 스트레스와 불안 증상, 내향적이고 신중한 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 기분은 어떠신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30세 남성, 아르바이트 중, 스트레스와 불안 증상, 내향적이고 신중한 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "어떤 방법으로 스트레스를 관리할 수 있을까요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30세 남성, 아르바이트 중, 스트레스와 불안 증상, 내향적이고 신중한 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(페르소나 확인 질문, 예: 자기소개)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 초반의 마케팅 전문가로, 삶에 풍부함을 찾고 싶어 하며 깊은 대인관계를 원하지만, 변화에 대한 두려움이 있는 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(상담 초기 탐색 질문)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 초반의 마케팅 전문가로, 삶에 풍부함을 찾고 싶어 하며 깊은 대인관계를 원하지만, 변화에 대한 두려움이 있는 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화나 통찰 유도 질문)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 초반의 마케팅 전문가로, 삶에 풍부함을 찾고 싶어 하며 깊은 대인관계를 원하지만, 변화에 대한 두려움이 있는 사람."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주시겠어요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "26세 대학생, 현재 직무 준비 중이며 학업 동기 부족과 자신감 결여 어려움을 겪고 있는 차분한 성격의 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 공부에 대한 사고나 느낌이 어떤가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "26세 대학생, 현재 직무 준비 중이며 학업 동기 부족과 자신감 결여 어려움을 겪고 있는 차분한 성격의 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "마음속에 변화하고 싶은 부분은 어떤 것인가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "26세 대학생, 현재 직무 준비 중이며 학업 동기 부족과 자신감 결여 어려움을 겪고 있는 차분한 성격의 사람."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(페르소나 확인 질문, 예: 자기소개)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "내담자는 30대 중반의 프리랜서 일러스트레이터로, 건강 문제로 인해 불안감을 느끼고 있으나 그림 그리는 일에 대한 열정이 강하다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(상담 초기 탐색 질문)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "내담자는 30대 중반의 프리랜서 일러스트레이터로, 건강 문제로 인해 불안감을 느끼고 있으나 그림 그리는 일에 대한 열정이 강하다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화나 통찰 유도 질문)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "내담자는 30대 중반의 프리랜서 일러스트레이터로, 건강 문제로 인해 불안감을 느끼고 있으나 그림 그리는 일에 대한 열정이 강하다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주세요.",
+    "criteria": "이름과 전공이 포함되어야 함.",
+    "persona": "20대 후반 대학생, 직업: 학생, 핵심 증상: 학업에 대한 집중력 저하 및 친구와의 비교에서 오는 질투심, 성격: 내향적이고 자기비판적인 성향."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 공부하면서 어떤 어려움을 겪고 있나요?",
+    "criteria": "방어적이고 단답형으로 응답하며, 외부 요인에 대한 불만을 표현.",
+    "persona": "20대 후반 대학생, 직업: 학생, 핵심 증상: 학업에 대한 집중력 저하 및 친구와의 비교에서 오는 질투심, 성격: 내향적이고 자기비판적인 성향."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "다음 시험을 위해 어떤 계획을 세우고 있나요?",
+    "criteria": "구체적인 계획을 제시하며 변화에 대한 기대감을 표현.",
+    "persona": "20대 후반 대학생, 직업: 학생, 핵심 증상: 학업에 대한 집중력 저하 및 친구와의 비교에서 오는 질투심, 성격: 내향적이고 자기비판적인 성향."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 초반, 사무직, 대인관계 불안과 낮은 자신감을 겪고 있는 의욕적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 사람들과 소통하면서 어떤 기분이 드셨나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 초반, 사무직, 대인관계 불안과 낮은 자신감을 겪고 있는 의욕적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "다시 활동적이고 긍정적으로 변하고 싶다는 마음이 드는 이유는 무엇인가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 초반, 사무직, 대인관계 불안과 낮은 자신감을 겪고 있는 의욕적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "제 소개를 해주실 수 있을까요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반의 마케팅 전문가로, 감정 표현에 어려움을 겪고 있는 내성적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 경험한 힘들었던 일은 무엇인가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 마케팅 전문가로, 감정 표현에 어려움을 겪고 있는 내성적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "감정을 표현하는 데 어떤 변화가 필요하다고 느끼시나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 마케팅 전문가로, 감정 표현에 어려움을 겪고 있는 내성적인 성격의 소유자."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반의 IT 직장인으로, 대인관계에서 소외감을 느끼고 있으며 내성적이고 고민이 많은 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 대인관계에 대해 어떻게 생각하고 계신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 IT 직장인으로, 대인관계에서 소외감을 느끼고 있으며 내성적이고 고민이 많은 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "진정한 친구에 대한 생각을 바꿔보고 싶으신가요? 어떻게 시작할 수 있을까요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 IT 직장인으로, 대인관계에서 소외감을 느끼고 있으며 내성적이고 고민이 많은 성격입니다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반, 직업은 마케터, 주된 증상은 우울감과 무기력함, 성격은 내향적이며 감정 표현이 어려운 편이다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 어떤 일이 마음을 힘들게 했는지 말씀해 주실 수 있나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반, 직업은 마케터, 주된 증상은 우울감과 무기력함, 성격은 내향적이며 감정 표현이 어려운 편이다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "어떤 상황이 도움이 되었는지 생각해 보신 적 있으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반, 직업은 마케터, 주된 증상은 우울감과 무기력함, 성격은 내향적이며 감정 표현이 어려운 편이다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(자기소개를 해보실래요?)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 후반, 마케팅 전문가, 우울증 및 자기 의심을 겪고 있는 내성적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(최근의 우울한 감정에 대해 말씀해 주실 수 있나요?)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 후반, 마케팅 전문가, 우울증 및 자기 의심을 겪고 있는 내성적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화를 위해 어떤 steps를 고려하고 계신가요?)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 후반, 마케팅 전문가, 우울증 및 자기 의심을 겪고 있는 내성적인 성격의 소유자."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "내담자는 23세 대학생으로, 복학을 앞두고 자신감 부족과 우울 증상을 겪고 있는 내향적인 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "복학을 앞두고 어떤 느낌이 드시나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "내담자는 23세 대학생으로, 복학을 앞두고 자신감 부족과 우울 증상을 겪고 있는 내향적인 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "복학 후 어떤 변화가 필요하다고 생각하시나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "내담자는 23세 대학생으로, 복학을 앞두고 자신감 부족과 우울 증상을 겪고 있는 내향적인 성격입니다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주시겠어요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 초반, 직장인, 심한 불안과 스트레스를 경험하고 있으며 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "요즘 어떤 일이 가장 힘드신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 초반, 직장인, 심한 불안과 스트레스를 경험하고 있으며 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "새로운 환경에서 어떤 변화가 생길 것 같으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 초반, 직장인, 심한 불안과 스트레스를 경험하고 있으며 내성적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(안녕하세요, 자기소개 부탁드립니다.)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 초반, 마케팅 직종 종사, 자기주장 결여 및 의사결정 곤란, 내향적이며 타인의 의견을 과도하게 고려하는 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(어떤 부분에서 불편함을 느끼고 계신가요?)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 초반, 마케팅 직종 종사, 자기주장 결여 및 의사결정 곤란, 내향적이며 타인의 의견을 과도하게 고려하는 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(이제는 어떤 방향으로 나아가고 싶으신가요?)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 초반, 마케팅 직종 종사, 자기주장 결여 및 의사결정 곤란, 내향적이며 타인의 의견을 과도하게 고려하는 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "29세 대학원생, 미래에 대한 불안과 성취에 대한 압박감이 강하며, 내향적이고 세심한 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 힘들었던 경험이 있다면 말씀해 주세요.",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "29세 대학원생, 미래에 대한 불안과 성취에 대한 압박감이 강하며, 내향적이고 세심한 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "장기적으로 어떤 변화를 이루고 싶으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "29세 대학원생, 미래에 대한 불안과 성취에 대한 압박감이 강하며, 내향적이고 세심한 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반, IT 업계에서 일하는 직장인, 우울감으로 인한 대인관계 소외 증상을 겪고 있으며, 외향적인 성격을 지닌 내담자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 어떤 감정이 드시나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반, IT 업계에서 일하는 직장인, 우울감으로 인한 대인관계 소외 증상을 겪고 있으며, 외향적인 성격을 지닌 내담자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "사람들과의 소통이 필요한 이유는 무엇인가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반, IT 업계에서 일하는 직장인, 우울감으로 인한 대인관계 소외 증상을 겪고 있으며, 외향적인 성격을 지닌 내담자."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(페르소나 확인 질문, 예: 자기소개)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "25세 성악 전공 학생으로, 열정이 넘치지만 자신감이 부족하며, 불안감을 느끼는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(상담 초기 탐색 질문)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "25세 성악 전공 학생으로, 열정이 넘치지만 자신감이 부족하며, 불안감을 느끼는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화나 통찰 유도 질문)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "25세 성악 전공 학생으로, 열정이 넘치지만 자신감이 부족하며, 불안감을 느끼는 내성적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해줄래요?",
+    "criteria": "이름/전공/대학 등 설정 유지",
+    "persona": "25세, 대학생, 대인관계 어려움 경험, 내성적이며 성격이 소극적임."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 친구들과의 소통에서 어떤 어려움이 있었나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "25세, 대학생, 대인관계 어려움 경험, 내성적이며 성격이 소극적임."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "어떤 방법으로 친구들과의 소통을 개선하고 싶나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "25세, 대학생, 대인관계 어려움 경험, 내성적이며 성격이 소극적임."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해줄 수 있어요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반의 직장인으로, 주변 사람들의 행동에 예민하게 반응하는 경향이 있으며, 자기 반성과 감정 관리를 위해 노력하는 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 어떤 감정들이 있나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 직장인으로, 주변 사람들의 행동에 예민하게 반응하는 경향이 있으며, 자기 반성과 감정 관리를 위해 노력하는 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "자신을 돌아보면서 어떤 점을 개선하고 싶나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 직장인으로, 주변 사람들의 행동에 예민하게 반응하는 경향이 있으며, 자기 반성과 감정 관리를 위해 노력하는 성격의 소유자."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 초반 직장인, 수험생, 불안과 스트레스를 호소하며 결정을 내리는 데 어려움을 겪고 있는 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "직장과 수험을 병행하는 것에 대해 어떻게 생각하시나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 초반 직장인, 수험생, 불안과 스트레스를 호소하며 결정을 내리는 데 어려움을 겪고 있는 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "수험 공부에 집중하기 위해 어떤 방법을 시도해보면 좋을까요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 초반 직장인, 수험생, 불안과 스트레스를 호소하며 결정을 내리는 데 어려움을 겪고 있는 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "안녕하세요! 자기소개를 해줄 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "17세 학생, 고등학교에 재학 중이며, 우울감과 불안을 호소하며 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 느끼는 감정이나 고민이 있다면 얘기해줄 수 있을까요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "17세 학생, 고등학교에 재학 중이며, 우울감과 불안을 호소하며 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "이런 문제를 해결하기 위해 어떤 변화를 시도해 보고 싶으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "17세 학생, 고등학교에 재학 중이며, 우울감과 불안을 호소하며 내향적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해줄 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "내담자는 16세 고등학생으로, 학업 스트레스와 대인 관계 문제로 인해 자신감이 떨어져 있으며, 내성적인 성격을 가지고 있습니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 어떤 어려움들이 있었나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "내담자는 16세 고등학생으로, 학업 스트레스와 대인 관계 문제로 인해 자신감이 떨어져 있으며, 내성적인 성격을 가지고 있습니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "어떤 꿈을 가지고 계신가요? 그 꿈을 이루기 위해 어떤 노력을 할 수 있을까요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "내담자는 16세 고등학생으로, 학업 스트레스와 대인 관계 문제로 인해 자신감이 떨어져 있으며, 내성적인 성격을 가지고 있습니다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(자기소개 해 주세요)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 직장인 남성, 무기력감과 우울감을 느끼며 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(최근의 심리적 어려움에 대해 말씀해 주실 수 있나요?)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 직장인 남성, 무기력감과 우울감을 느끼며 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(어떤 작은 변화부터 시작하고 싶으신가요?)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 직장인 남성, 무기력감과 우울감을 느끼며 내향적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "32세, 무직, 자기 가치감 저하, 내성적이고 자기 비판적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 어떤 일로 고민하고 계신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "32세, 무직, 자기 가치감 저하, 내성적이고 자기 비판적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "앞으로 어떻게 변화하고 싶으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "32세, 무직, 자기 가치감 저하, 내성적이고 자기 비판적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 좀 해주실 수 있나요?",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "25세, 대학생, 진로 불안과 부모의 기대에 대한 갈등을 겪고 있는 활동적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "부모님의 기대와 관련해 어떻게 느끼고 계신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "25세, 대학생, 진로 불안과 부모의 기대에 대한 갈등을 겪고 있는 활동적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "편입 공부를 통해 어떤 변화를 원하시나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "25세, 대학생, 진로 불안과 부모의 기대에 대한 갈등을 겪고 있는 활동적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주실 수 있나요?",
+    "criteria": "이름과 직업을 자연스럽게 언급하며 자신의 상황을 간단히 설명해야 함.",
+    "persona": "30대 중반의 마케팅 전문가로, 최근 직장과의 관계로 인해 상실감과 우울감을 경험하고 있는 무던한 성격의 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 어떤 일로 인해 힘들고 괴로운 기분이 드셨나요?",
+    "criteria": "방어적인 태도로 인해 대답이 단답형이며, 외부의 문제를 언급하거나 상담에게 불신을 나타내야 함.",
+    "persona": "30대 중반의 마케팅 전문가로, 최근 직장과의 관계로 인해 상실감과 우울감을 경험하고 있는 무던한 성격의 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "일을 그만둔 후에 느낀 감정에 대해 어떤 변화를 원하시는지 말씀해 주실 수 있나요?",
+    "criteria": "변화하고자 하는 의지가 느껴지며, 그에 대한 구체적인 계획이나 통찰을 제시해야 함.",
+    "persona": "30대 중반의 마케팅 전문가로, 최근 직장과의 관계로 인해 상실감과 우울감을 경험하고 있는 무던한 성격의 사람."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주시겠어요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "20대 대학생으로, 학업 스트레스와 자기 비판이 심한 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 공부에 대해 어떤 어려움을 느끼고 계신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "20대 대학생으로, 학업 스트레스와 자기 비판이 심한 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "자신의 성취를 인정하기 위해 어떤 노력을 할 계획이신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "20대 대학생으로, 학업 스트레스와 자기 비판이 심한 성격입니다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대, 회사원, 어머니와의 관계에서 스트레스를 겪는 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "어머니와의 관계에 대해 어떻게 생각하고 계신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대, 회사원, 어머니와의 관계에서 스트레스를 겪는 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "어머니와의 관계에서 어떤 변화가 필요하다고 느끼시나요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대, 회사원, 어머니와의 관계에서 스트레스를 겪는 내향적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 직장인으로, 취업에 대한 불안감을 가지고 있으며 미리 계획 없이 모든 일을 시도하려는 성향이 강한 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "지금 어떤 생각을 하고 계신가요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 직장인으로, 취업에 대한 불안감을 가지고 있으며 미리 계획 없이 모든 일을 시도하려는 성향이 강한 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "앞으로 어떤 변화를 시도해보고 싶으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 직장인으로, 취업에 대한 불안감을 가지고 있으며 미리 계획 없이 모든 일을 시도하려는 성향이 강한 사람."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(자기소개를 해주세요.)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 초반, 직장인, 자신감 저하, 자기 비판적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(최근 고민하고 있는 것이 무엇인가요?)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 초반, 직장인, 자신감 저하, 자기 비판적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화가 필요하다고 느끼는 부분은 무엇인가요?)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 초반, 직장인, 자신감 저하, 자기 비판적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(자기소개)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 중반의 마케팅 전문가로, 사람들과의 관계를 중시하며 자신의 전문성이 부족하다고 느끼는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(상담 초기 탐색 질문)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 마케팅 전문가로, 사람들과의 관계를 중시하며 자신의 전문성이 부족하다고 느끼는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화나 통찰 유도 질문)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 마케팅 전문가로, 사람들과의 관계를 중시하며 자신의 전문성이 부족하다고 느끼는 내성적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(페르소나 확인 질문, 예: 자기소개)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 초반의 회사원으로, 무기력과 감정 무감각을 겪고 있는 내향적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(상담 초기 탐색 질문)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 초반의 회사원으로, 무기력과 감정 무감각을 겪고 있는 내향적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화나 통찰 유도 질문)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 초반의 회사원으로, 무기력과 감정 무감각을 겪고 있는 내향적인 성격의 소유자."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해 주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 직장인 여성, 불안과 피로를 호소하며, 내성적이다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 어떤 감정이나 생각이 드셨나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 직장인 여성, 불안과 피로를 호소하며, 내성적이다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "이러한 문제를 해결하기 위해 어떤 방법을 더 시도해 보실 생각인가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 직장인 여성, 불안과 피로를 호소하며, 내성적이다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반의 작가로, 슬픔과 무기력함을 느끼는 내향적인 성격의 소유자"
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 감정에 대해 이야기해보실까요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 작가로, 슬픔과 무기력함을 느끼는 내향적인 성격의 소유자"
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "글쓰기를 통해 느낀 점이 무엇인가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 작가로, 슬픔과 무기력함을 느끼는 내향적인 성격의 소유자"
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 직장인 남성, 스트레스에 의해 머리카락을 뽑는 강박적 습관을 가지고 있으며, 내성적이고 감정 표현이 서툴다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근 힘든 일이나 스트레스가 되었던 사건이 무엇인지 말씀해주실 수 있나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 직장인 남성, 스트레스에 의해 머리카락을 뽑는 강박적 습관을 가지고 있으며, 내성적이고 감정 표현이 서툴다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "머리카락을 뽑는 대신 어떤 다른 방법으로 스트레스를 관리할 수 있을까요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 직장인 남성, 스트레스에 의해 머리카락을 뽑는 강박적 습관을 가지고 있으며, 내성적이고 감정 표현이 서툴다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(자기소개를 해 줄 수 있나요?)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "20세 대학생, 전공은 심리학이며, 친구들과의 관계로 인해 우울감을 겪고 있는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(최근에 힘들었던 일이 있나요?)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "20세 대학생, 전공은 심리학이며, 친구들과의 관계로 인해 우울감을 겪고 있는 내성적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(우울한 기분을 어떻게 바꾸고 싶으신가요?)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "20세 대학생, 전공은 심리학이며, 친구들과의 관계로 인해 우울감을 겪고 있는 내성적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(이름과 직업에 대해 말씀해 주세요.)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30대 중반 직장인으로, 대인관계에서 예민하게 반응하고 상처받는 어려움을 겪고 있는 내향적인 성격의 사람입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(최근 사람들과의 관계에서 어떤 어려움이 있었나요?)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반 직장인으로, 대인관계에서 예민하게 반응하고 상처받는 어려움을 겪고 있는 내향적인 성격의 사람입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(앞으로 인간관계를 개선하기 위해 어떤 계획이 있으신가요?)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반 직장인으로, 대인관계에서 예민하게 반응하고 상처받는 어려움을 겪고 있는 내향적인 성격의 사람입니다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(페르소나 확인 질문, 예: 자기소개)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "내담자는 35세 여성으로, 자영업을 하며 최근에 가까운 친척을 잃어 심리적 불안정과 슬픔을 겪고 있는 감정이 풍부한 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(상담 초기 탐색 질문)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "내담자는 35세 여성으로, 자영업을 하며 최근에 가까운 친척을 잃어 심리적 불안정과 슬픔을 겪고 있는 감정이 풍부한 성격입니다."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화나 통찰 유도 질문)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "내담자는 35세 여성으로, 자영업을 하며 최근에 가까운 친척을 잃어 심리적 불안정과 슬픔을 겪고 있는 감정이 풍부한 성격입니다."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해보세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반의 마케팅 전문가로, 친구와의 관계에서 스트레스를 겪고 있는 감정적인 성향을 가진 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 친구 관계에 대해 어떻게 생각하시나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 마케팅 전문가로, 친구와의 관계에서 스트레스를 겪고 있는 감정적인 성향을 가진 사람."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "변화를 시도하는 데 있어 어떤 점이 가장 중요한가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 마케팅 전문가로, 친구와의 관계에서 스트레스를 겪고 있는 감정적인 성향을 가진 사람."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해 주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "20대 대학생, 학업 스트레스를 겪고 있는 사람, 시험기간마다 집중력 저하와 현실 회피 경향이 있음."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "시험을 준비하는 동안 어떤 어려움이 있으셨나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "20대 대학생, 학업 스트레스를 겪고 있는 사람, 시험기간마다 집중력 저하와 현실 회피 경향이 있음."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "시험 준비를 위해 어떤 방법을 시도해보고 싶으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "20대 대학생, 학업 스트레스를 겪고 있는 사람, 시험기간마다 집중력 저하와 현실 회피 경향이 있음."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개해 주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "34세, 마케팅 매니저, 회피 행동으로 인한 자기 잃음, 성찰적이고 진솔한 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 힘들었던 감정이나 상황에 대해 말씀해주시겠어요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "34세, 마케팅 매니저, 회피 행동으로 인한 자기 잃음, 성찰적이고 진솔한 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "어떠한 방법으로 다시 삶의 목표를 찾고 싶으신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "34세, 마케팅 매니저, 회피 행동으로 인한 자기 잃음, 성찰적이고 진솔한 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개 해 주실 수 있나요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "17세 고등학생, 학업 스트레스로 무기력감을 느끼고 있으며, 내향적인 성격을 가진 요즘 힘들어하는 학생."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "이번 학기에 어떻게 적응하고 있나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "17세 고등학생, 학업 스트레스로 무기력감을 느끼고 있으며, 내향적인 성격을 가진 요즘 힘들어하는 학생."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "학업 상황을 개선하기 위해 어떤 계획을 세워볼 수 있을까요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "17세 고등학생, 학업 스트레스로 무기력감을 느끼고 있으며, 내향적인 성격을 가진 요즘 힘들어하는 학생."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주세요.",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반의 마케팅 전문가로, 사람들과의 관계에서 자주 고립감을 느끼고 자신을 과소평가하는 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 사람들과의 관계에서 느낀 점에 대해 이야기해 주실 수 있나요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 마케팅 전문가로, 사람들과의 관계에서 자주 고립감을 느끼고 자신을 과소평가하는 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "내담자님은 스스로를 낮춘다는 생각을 하셨는데, 앞으로 어떤 변화가 필요할까요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 마케팅 전문가로, 사람들과의 관계에서 자주 고립감을 느끼고 자신을 과소평가하는 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "당신에 대해 간단히 소개해 주실 수 있나요?",
+    "criteria": "이름/전공/취미 등 설정 유지",
+    "persona": "20대 대학생, 학업 스트레스와 외로움을 느끼는, 내성적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "지금 어떤 문제에 가장 어려움을 겪고 계신가요?",
+    "criteria": "방어적 태도, 단답형 대답, 타인 탓, 상담에 대한 불신",
+    "persona": "20대 대학생, 학업 스트레스와 외로움을 느끼는, 내성적인 성격의 소유자."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "어떻게 하면 지금의 상황을 개선할 수 있을까요?",
+    "criteria": "변화를 원함(Desire), 변화할 수 있는 능력(Ability), 구체적인 계획에 대한 설명",
+    "persona": "20대 대학생, 학업 스트레스와 외로움을 느끼는, 내성적인 성격의 소유자."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "자기소개를 해주시겠어요?",
+    "criteria": "이름/직업 등 설정 유지",
+    "persona": "30대 중반의 마케터로, 낮은 자존감과 부정적인 생각을 겪고 있는 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "최근에 겪고 있는 문제에 대해 말씀해 주시겠어요?",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30대 중반의 마케터로, 낮은 자존감과 부정적인 생각을 겪고 있는 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "이런 상황을 개선하기 위해 어떤 방법을 생각하고 계신가요?",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30대 중반의 마케터로, 낮은 자존감과 부정적인 생각을 겪고 있는 내향적인 성격."
+  },
+  {
+    "group": "Standard",
+    "metric": "Prompt-to-Line",
+    "phase": "All",
+    "query": "(페르소나 확인 질문, 예: 자기소개)",
+    "criteria": "(이름/직업 등 설정 유지)",
+    "persona": "30세, 대학생, 대중 앞에서 발표 시 지나치게 큰 스트레스를 경험하고 있는 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Resistance",
+    "phase": "Early",
+    "query": "(상담 초기 탐색 질문)",
+    "criteria": "방어적, 단답형, 외부 탓, 불신 (저항)",
+    "persona": "30세, 대학생, 대중 앞에서 발표 시 지나치게 큰 스트레스를 경험하고 있는 내향적인 성격."
+  },
+  {
+    "group": "K-Patient",
+    "metric": "Change Talk",
+    "phase": "Late",
+    "query": "(변화나 통찰 유도 질문)",
+    "criteria": "변화 의지(Desire/Ability), 통찰, 구체적 계획 (수용)",
+    "persona": "30세, 대학생, 대중 앞에서 발표 시 지나치게 큰 스트레스를 경험하고 있는 내향적인 성격."
+  }
+]

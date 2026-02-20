@@ -1,0 +1,14 @@
+torch>=2.4.0
+unsloth[cu124-ampere-torch240] @ git+https://github.com/unslothai/unsloth.git
+unsloth_zoo
+bitsandbytes
+huggingface_hub
+python-dotenv
+pandas
+openai
+matplotlib
+seaborn
+scipy
+trl
+peft
+accelerate
